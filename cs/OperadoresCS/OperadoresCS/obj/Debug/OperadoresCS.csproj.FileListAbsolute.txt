@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\bin\Debug\OperadoresCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\bin\Debug\OperadoresCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\bin\Debug\OperadoresCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.frmOperadoresCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\cs\OperadoresCS\OperadoresCS\obj\Debug\OperadoresCS.pdb
