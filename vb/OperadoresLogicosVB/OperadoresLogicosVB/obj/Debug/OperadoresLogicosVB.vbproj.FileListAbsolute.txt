@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\bin\Debug\OperadoresLogicosVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\bin\Debug\OperadoresLogicosVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\bin\Debug\OperadoresLogicosVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\bin\Debug\OperadoresLogicosVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.frmOperadoresLogicos.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\9\vb\OperadoresLogicosVB\OperadoresLogicosVB\obj\Debug\OperadoresLogicosVB.pdb
